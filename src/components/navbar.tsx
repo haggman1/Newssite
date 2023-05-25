@@ -22,7 +22,7 @@ export const Navbar = () => {
                     className="align-middle sm:align-baseline text-3xl"
                     to="/"
                   >
-                    KumlaNytt
+                    Williams sida
                   </NavLink>
                 </li>
               </ul>
