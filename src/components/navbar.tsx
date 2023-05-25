@@ -22,7 +22,7 @@ export const Navbar = () => {
                     className="align-middle sm:align-baseline text-3xl"
                     to="/"
                   >
-                    Test sfshjfhjsfhjs
+                    Williams sida
                   </NavLink>
                 </li>
               </ul>
